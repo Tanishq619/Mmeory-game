@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mmeory-game/static/css/main.e3579bbf.css",
-    "main.js": "/Mmeory-game/static/js/main.9bf0f5ec.js",
+    "main.js": "/Mmeory-game/static/js/main.a6576934.js",
     "static/media/test9.png": "/Mmeory-game/static/media/test9.1b852d43e44df5c1ac20.png",
     "static/media/test8.png": "/Mmeory-game/static/media/test8.977b3063a703f313a820.png",
     "static/media/test11.png": "/Mmeory-game/static/media/test11.2810c35be49f95a55dc8.png",
@@ -16,10 +16,10 @@
     "static/media/test3.jpg": "/Mmeory-game/static/media/test3.d5e81b39ef3842cd50de.jpg",
     "index.html": "/Mmeory-game/index.html",
     "main.e3579bbf.css.map": "/Mmeory-game/static/css/main.e3579bbf.css.map",
-    "main.9bf0f5ec.js.map": "/Mmeory-game/static/js/main.9bf0f5ec.js.map"
+    "main.a6576934.js.map": "/Mmeory-game/static/js/main.a6576934.js.map"
   },
   "entrypoints": [
     "static/css/main.e3579bbf.css",
-    "static/js/main.9bf0f5ec.js"
+    "static/js/main.a6576934.js"
   ]
 }
