@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Mmeory-game/static/css/main.e3579bbf.css",
+    "main.js": "/Mmeory-game/static/js/main.9bf0f5ec.js",
+    "static/media/test9.png": "/Mmeory-game/static/media/test9.1b852d43e44df5c1ac20.png",
+    "static/media/test8.png": "/Mmeory-game/static/media/test8.977b3063a703f313a820.png",
+    "static/media/test11.png": "/Mmeory-game/static/media/test11.2810c35be49f95a55dc8.png",
+    "static/media/test2.jpg": "/Mmeory-game/static/media/test2.77f7968d465e71ade2da.jpg",
+    "static/media/test4.png": "/Mmeory-game/static/media/test4.4d0c382e57f14859f73e.png",
+    "static/media/test1.png": "/Mmeory-game/static/media/test1.ee686914cf5982cf137c.png",
+    "static/media/test7.png": "/Mmeory-game/static/media/test7.bdf9504c1512f5dbf9b4.png",
+    "static/media/test12.png": "/Mmeory-game/static/media/test12.320a10d1c336f00dfd2e.png",
+    "static/media/test5.png": "/Mmeory-game/static/media/test5.6f127c1f0c909a24374e.png",
+    "static/media/test10.jpg": "/Mmeory-game/static/media/test10.1d53515b533e1e26d441.jpg",
+    "static/media/test6.jpg": "/Mmeory-game/static/media/test6.807c74ce60527eacdfa8.jpg",
+    "static/media/test3.jpg": "/Mmeory-game/static/media/test3.d5e81b39ef3842cd50de.jpg",
+    "index.html": "/Mmeory-game/index.html",
+    "main.e3579bbf.css.map": "/Mmeory-game/static/css/main.e3579bbf.css.map",
+    "main.9bf0f5ec.js.map": "/Mmeory-game/static/js/main.9bf0f5ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3579bbf.css",
+    "static/js/main.9bf0f5ec.js"
+  ]
+}
