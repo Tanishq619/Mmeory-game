@@ -47,7 +47,7 @@ function App() {
     }
     const search = arr1.find((el) => el.id === img.id && el.checked);
     if (search) {
-      alert("You Lost");
+      // alert("You Lost");
 
       setOver(true);
     } else {
