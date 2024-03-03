@@ -41,7 +41,7 @@ function App() {
     if (score === 11) {
       alert("You won");
       sethscore(12);
-      setscore(0);
+      setscore(12);
       setOver(true);
       return;
     }
@@ -132,10 +132,14 @@ function Modal({ score, hscore, handlereset }) {
   console.log(hscore);
   return (
     <div className="flex flex-col gap-4 text-lg md:text-xl items-center">
-      {score > hscore ? (
-        <h1 className="text-center">
-          You are the highest Scorer: {score} 🍾🎉
-        </h1>
+      {score >= hscore ? (
+        score >= 11 ? (
+          <h1 className="text-center">You are the Winner : {score} 🍾🎉</h1>
+        ) : (
+          <h1 className="text-center">
+            You are the highest Scorer: {score} 🍾🎉
+          </h1>
+        )
       ) : (
         <h1 className="text-center">Your score is {score} 🍾</h1>
       )}
